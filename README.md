@@ -1,23 +1,3 @@
-## 저장소 구조
-
-```text
-kia-pbv-tourism-mobility/
-├── README.md
-└── assets/
-    ├── vehicle-exterior.png
-    ├── interior-layout.png
-    ├── shared-display-retracted.png
-    ├── shared-display-deployed.png
-    ├── shared-display-active.png
-    ├── personal-display-overview.png
-    ├── personal-display-detail.png
-    ├── rear-seats-folded.png
-    ├── rear-seats-deployed.png
-    ├── rotating-front-seats.png
-    ├── roof-lift-closed.png
-    └── roof-lift-open.png
-```
-
 # 기아 PBV 기반 관광 모빌리티 서비스
 
 > PBV의 공간 활용성과 디지털 콘텐츠를 결합해 이동 시간을 관광 경험으로 확장한 서비스 기획 프로젝트입니다.
@@ -67,6 +47,25 @@ kia-pbv-tourism-mobility/
 5. 사전 정보와 현장 관광 경험을 연결합니다.
 
 ## 주요 설계
+### 저장소 구조
+
+```text
+kia-pbv-tourism-mobility/
+├── README.md
+└── assets/
+    ├── vehicle-exterior.png
+    ├── interior-layout.png
+    ├── shared-display-retracted.png
+    ├── shared-display-deployed.png
+    ├── shared-display-active.png
+    ├── personal-display-overview.png
+    ├── personal-display-detail.png
+    ├── rear-seats-folded.png
+    ├── rear-seats-deployed.png
+    ├── rotating-front-seats.png
+    ├── roof-lift-closed.png
+    └── roof-lift-open.png
+```
 
 ### 차량 외관 및 내부 공간
 
