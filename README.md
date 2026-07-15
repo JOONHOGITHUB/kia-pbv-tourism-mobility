@@ -1,7 +1,22 @@
+## 저장소 구조
+
+```text
 kia-pbv-tourism-mobility/
-저장소/
 ├── README.md
 └── assets/
+    ├── vehicle-exterior.png
+    ├── interior-layout.png
+    ├── shared-display-retracted.png
+    ├── shared-display-deployed.png
+    ├── shared-display-active.png
+    ├── personal-display-overview.png
+    ├── personal-display-detail.png
+    ├── rear-seats-folded.png
+    ├── rear-seats-deployed.png
+    ├── rotating-front-seats.png
+    ├── roof-lift-closed.png
+    └── roof-lift-open.png
+```
 
 # 기아 PBV 기반 관광 모빌리티 서비스
 
